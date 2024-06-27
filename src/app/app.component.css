@@ -1,0 +1,14 @@
+.title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #253e47;
+}
+
+.gallery {
+    display: flex;
+    justify-content: space-around;
+}
+
+.gallery__item {
+    height: 500px;
+}
